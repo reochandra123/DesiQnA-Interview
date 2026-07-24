@@ -1,2 +1,13 @@
-# DesiQnA-Interview
-DesiQnA is a responsive Question &amp; Answer web platform built with HTML, CSS, JavaScript, PHP, and MySQL. It provides secure user authentication, email verification, Google reCAPTCHA integration, and a user-friendly interface for posting, managing, and answering questions.
+# DesiQna-Interview-Experiences
+DesiQna Interview Experiences Page
+This is the Frontend Web page. Its purpose is to make user experience better and have all the Interview Experiences of different companies in a proper manner.
+
+Tech Stack:
+
+HTML
+
+CSS
+
+BOOTSTRAP
+
+JAVASCRIPT
